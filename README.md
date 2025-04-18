@@ -31,26 +31,26 @@ The dataset comprises information about Netflix's catalog of movies and TV shows
 
 * Insightful Queries and Analysis:
 
-Identify the show ID and director for specific titles.
+  - Identify the show ID and director for specific titles.
 
-Determine the year with the highest number of releases.
+  - Determine the year with the highest number of releases.
 
-Count and visualize the number of Movies vs. TV Shows.
+  - Count and visualize the number of Movies vs. TV Shows.
 
-List the top directors with the most contributions to Netflix.
+  - List the top directors with the most contributions to Netflix.
 
-Filter records by specific categories, types, and countries.
+  - Filter records by specific categories, types, and countries.
 
-Analyze unique ratings and their distributions.
+  - Analyze unique ratings and their distributions.
 
-Check the highest movie/show duration and the number of TV shows by country.
+  - Check the highest movie/show duration and the number of TV shows by country.
 
-Sort the dataset by release year.
+  - Sort the dataset by release year.
 
-Visualization: Utilize libraries like Matplotlib and Seaborn to create bar graphs, heatmaps, and count plots to visualize trends and patterns.
+* Visualization: Utilize libraries like Matplotlib and Seaborn to create bar graphs, heatmaps, and count plots to visualize trends and patterns.
 
 🛠 Technologies Used
-Programming Language: Python
+* Programming Language: Python
 
 Libraries:
 
@@ -65,16 +65,12 @@ Development Environment: Jupyter Notebook
 🚀 How to Run
 Clone this repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/D-Bavanapriya/Netflix-Data-Analysis.git
+
 Install required Python libraries:
 
-bash
-Copy
-Edit
 pip install pandas seaborn matplotlib
+
 Open and run the notebook file in Jupyter Notebook or JupyterLab.
 
 📈 Future Improvements
