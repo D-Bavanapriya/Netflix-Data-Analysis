@@ -50,8 +50,7 @@ The dataset comprises information about Netflix's catalog of movies and TV shows
 * Visualization: Utilize libraries like Matplotlib and Seaborn to create bar graphs, heatmaps, and count plots to visualize trends and patterns.
 
 🛠 Technologies Used
-* Programming Language:
-    - Python
+* Programming Language: Python
 
 Libraries:
 
