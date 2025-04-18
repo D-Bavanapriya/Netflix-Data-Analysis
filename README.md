@@ -54,13 +54,14 @@ The dataset comprises information about Netflix's catalog of movies and TV shows
 
 Libraries:
 
-Pandas
+* Pandas
 
-Seaborn
+* Seaborn
 
-Matplotlib
+* Matplotlib
 
-Development Environment: Jupyter Notebook
+Development Environment: 
+* Jupyter Notebook
 
 🚀 How to Run
 Clone this repository:
@@ -69,13 +70,13 @@ git clone https://github.com/D-Bavanapriya/Netflix-Data-Analysis.git
 
 Install required Python libraries:
 
-pip install pandas seaborn matplotlib
+* pip install pandas seaborn matplotlib
 
-Open and run the notebook file in Jupyter Notebook or JupyterLab.
+* Open and run the notebook file in Jupyter Notebook or JupyterLab.
 
 📈 Future Improvements
-Incorporate more advanced visualizations using Plotly or Dash.
+* Incorporate more advanced visualizations using Plotly or Dash.
 
-Perform sentiment analysis on descriptions.
+* Perform sentiment analysis on descriptions.
 
-Explore machine learning techniques for recommendations based on the dataset.
+* Explore machine learning techniques for recommendations based on the dataset.
